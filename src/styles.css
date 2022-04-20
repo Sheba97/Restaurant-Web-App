@@ -4,6 +4,7 @@
 * {
   padding: 0;
   margin: 0;
+  /*background:var(--secondary-color);*/
 }
 
 :root {
@@ -17,4 +18,5 @@
 body {
   height: 100vh;
   font-family: "Nunito", sans-serif;
+  
 }
